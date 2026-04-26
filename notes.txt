@@ -1,0 +1,6 @@
+50 <data>
+50 <data>
+63
+62
+61 <low> <high> - convert this into multiple waits of &FFFF or 16-bit timer value
+convert all waits into 41 <low> <high> ms wait
